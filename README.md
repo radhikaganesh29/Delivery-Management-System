@@ -11,6 +11,7 @@ Ismail Ben seddik <br>
 
 Backend repository: https://github.com/Delivery-Management-SE/SE_Project_Team_22 <br>
 Frontend repository: https://github.com/SETeam22/DMS_frontend <br>
+Demo Video: https://drive.google.com/drive/folders/1P9zzaM-4nDQckOXRwM8M5cENCHY_8o1c?usp=sharing <br>
 
 The mission of DeliverEase was to create an all-encompassing delivery platform that offers a vast range of services across the globe, focusing on simplifying the delivery management process. <br>
 
